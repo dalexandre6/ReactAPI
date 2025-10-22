@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "CodeChallengeAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\ReactCodeChallenge\\reactcodechallenge.esproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
